@@ -10,3 +10,10 @@ Non Primitive/user defined - These are driven from combination of primitive DS.T
 ### Dynamic - Memory location changes.
 ## Non Linear - The data item is connected to many other item not in a sequential manner like tree and graph.
 
+#Types of Algorithms-
+## Simple recursive algo
+## Divide and conquer algo
+## Dynamic programming algo
+## Greedy Algo
+## Brute force algo
+## Randomized algo
